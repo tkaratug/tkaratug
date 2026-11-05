@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-[![](https://visitcount.itsvg.in/api?id=tkaratug&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
----
-## Profile Stats
-
-[![tkaratug's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkaratug)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Latest [Medium](https://medium.com/@tkaratug) posts
 <!-- BLOG-POST-LIST:START -->
 - [Laravel’s ofMany() Pitfall: Why Your Eloquent Relationship Returns Null](https://medium.com/@tkaratug/laravels-ofmany-pitfall-why-your-eloquent-relationship-returns-null-01204129a070)
